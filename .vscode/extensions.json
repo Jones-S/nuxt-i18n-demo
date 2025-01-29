@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "sdras.vue-vscode-snippets",
+    "gruntfuggly.todo-tree",
+    "bradlc.vscode-tailwindcss",
+    "vue.volar"
+  ]
+}
